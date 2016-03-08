@@ -12,5 +12,9 @@ namespace vjezba1
             Console.WriteLine("Bok Kristina");
             Console.WriteLine("Kako si?");
         }
+        public static void Main()
+        {
+            Console.WriteLine("Sunčan dan!");
+        }
     }
 }
